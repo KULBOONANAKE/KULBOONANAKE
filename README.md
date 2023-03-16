@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://adaickalavan.github.io/assets/images/gophercises_punching.jpg" width="300" />
+  <img src="https://w7.pngwing.com/pngs/611/567/png-transparent-docker-devops-linux-kernel-github-container-text-logo-vertebrate.png" width="300" />
 </div>
 
 <br />
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/danyouknowme/danyouknowme/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/KULBOONANAKE/KULBOONANAKE/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <!--
