@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://w7.pngwing.com/pngs/611/567/png-transparent-docker-devops-linux-kernel-github-container-text-logo-vertebrate.png" width="300" />
+  <img src="https://media0.giphy.com/media/5Z4MCUcKSKFtOOEsb4/giphy.gif?cid=ecf05e473uhnikqqk51u1cf7zkm75dtavi5jwofqsfcicxzt&rid=giphy.gif&ct=g" width="300" />
 </div>
 
 <br />
